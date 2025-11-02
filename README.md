@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Joana</h1>
 <h3 align="center">A Software Engineer based in 📍Valencia, Spain.</h3>
 
-- 🔭 I’m currently working on **the website for the biggest insurance company in Spain and growing my website design portfolio**
+- 🔭 I’m currently working on **an ecommerce on the Blockchain**
 
-- 🌱 I’m currently learning **UX/UI, Next.js and Payload**
+- 🌱 I’m currently learning **AI tools**
 
-- 👯 I’m looking to collaborate on **UX/UI focused projects**
+- 👯 I’m looking to collaborate on **AI projects**
   
 - ⚡ Fun fact **I'm a developer during the day and a DJ by night**
 
